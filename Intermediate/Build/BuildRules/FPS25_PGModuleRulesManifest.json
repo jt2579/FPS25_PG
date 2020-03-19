@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\Unreal Projects\\FPS25_PG\\Source\\FPS25_PG\\FPS25_PG.Build.cs",
+		"H:\\Unreal Projects\\FPS25_PG\\Source\\FPS25_PG.Target.cs",
+		"H:\\Unreal Projects\\FPS25_PG\\Source\\FPS25_PGEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}
